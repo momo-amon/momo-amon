@@ -2,7 +2,7 @@
 
 <br />
 
-<h1 align="center">Hello I'm Hossein Haghshenas</h1>
+<h1 align="center">Hello I'm Mo'men Ahmed</h1>
 <h3 align="center">Front-end Developer</h3>
 
 <br />
@@ -16,7 +16,7 @@
 
 - ❤️ I love to dreaming up ideas and making them come true with programming
 
-- 💬 Feel free to ask me any question [here]([https://github.com/Hossein-Haghshenas/Hossein-Haghshenas/issues](https://github.com/momo-amon))
+- 💬 Feel free to ask me any question [here](https://github.com/Hossein-Haghshenas/Hossein-Haghshenas/issues](https://github.com/momo-amon))
 
 <br />
 
